@@ -11,10 +11,10 @@ My main goals with this repo are:
 ```text
 src/
   Easy/
-    0001_TwoSum.cs
+    0001_TwoSum.cs (LeetCode.Easy)
     0110_Balanced Binary Tree.cs
     0733_Flood Fill.cs
   Medium/
-    ...
+    0167_TwoSumII.cs
   Hard/
     ...
