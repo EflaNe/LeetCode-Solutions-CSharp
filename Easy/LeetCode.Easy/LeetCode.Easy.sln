@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36310.24 d17.14
+VisualStudioVersion = 17.14.36310.24
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.Easy", "LeetCode.Easy\LeetCode.Easy.csproj", "{4E0C2679-2E12-4376-B6C5-90B8DBFD35E0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "LeetCode.Easy\TwoSum.csproj", "{4E0C2679-2E12-4376-B6C5-90B8DBFD35E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalancedBinaryTree", "BalancedBinaryTree\BalancedBinaryTree.csproj", "{F5AF9A8D-FCEF-4EE5-9EF2-87DF18D3F14A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloodFill", "FloodFill\FloodFill.csproj", "{258438B4-28F5-4FC0-A486-664F12F2C421}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two Sum II", "Two Sum II\Two Sum II.csproj", "{C5DC4318-40D7-4262-A1C7-3091A6B18576}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{4E0C2679-2E12-4376-B6C5-90B8DBFD35E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E0C2679-2E12-4376-B6C5-90B8DBFD35E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E0C2679-2E12-4376-B6C5-90B8DBFD35E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5AF9A8D-FCEF-4EE5-9EF2-87DF18D3F14A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5AF9A8D-FCEF-4EE5-9EF2-87DF18D3F14A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5AF9A8D-FCEF-4EE5-9EF2-87DF18D3F14A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5AF9A8D-FCEF-4EE5-9EF2-87DF18D3F14A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{258438B4-28F5-4FC0-A486-664F12F2C421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{258438B4-28F5-4FC0-A486-664F12F2C421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{258438B4-28F5-4FC0-A486-664F12F2C421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{258438B4-28F5-4FC0-A486-664F12F2C421}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5DC4318-40D7-4262-A1C7-3091A6B18576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5DC4318-40D7-4262-A1C7-3091A6B18576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5DC4318-40D7-4262-A1C7-3091A6B18576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5DC4318-40D7-4262-A1C7-3091A6B18576}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

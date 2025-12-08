@@ -7,7 +7,7 @@
     <ProjectGuid>{C5DC4318-40D7-4262-A1C7-3091A6B18576}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Two_Sum_II</RootNamespace>
-    <AssemblyName>Two_Sum_II</AssemblyName>
+    <AssemblyName>Two Sum II</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
