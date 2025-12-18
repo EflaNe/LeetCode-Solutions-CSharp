@@ -41,4 +41,20 @@ src/
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/EflaNe/LeetCode-Solutions-CSharp/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/EflaNe/LeetCode-Solutions-CSharp/tree/master/0067-add-binary) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/EflaNe/LeetCode-Solutions-CSharp/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/EflaNe/LeetCode-Solutions-CSharp/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/EflaNe/LeetCode-Solutions-CSharp/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
