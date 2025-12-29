@@ -29,6 +29,7 @@ src/
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/EflaNe/LeetCode-Solutions-CSharp/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/EflaNe/LeetCode-Solutions-CSharp/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -41,6 +42,7 @@ src/
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/EflaNe/LeetCode-Solutions-CSharp/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/EflaNe/LeetCode-Solutions-CSharp/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +51,7 @@ src/
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/EflaNe/LeetCode-Solutions-CSharp/tree/master/0067-add-binary) |
+| [0383-ransom-note](https://github.com/EflaNe/LeetCode-Solutions-CSharp/tree/master/0383-ransom-note) |
 ## Bit Manipulation
 |  |
 | ------- |
