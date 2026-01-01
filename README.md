@@ -1,66 +1,51 @@
-# LeetCode Solutions in C#
+# LeetCode Solutions – C# (.NET)
 
-This repository contains my solutions to LeetCode problems written in **C#**.  
-My main goals with this repo are:
+This repository contains my solutions to LeetCode problems, written in **C# (.NET)**.
 
-- Improving my problem-solving and data structures & algorithms skills  
-- Writing clean and readable C# code  
-- Tracking my progress over time (Grind 75 & LeetCode)
+The purpose of this repository is not only to solve problems, but to build
+strong **algorithmic thinking**, understand **data structures deeply**, and
+develop **clean, interview-ready coding habits**.
 
+---
+
+## 🧠 Problem Solving Approach
+
+For each problem, I focus on:
+- Understanding the core pattern (e.g. Two Pointers, Hashing, DFS, BFS)
+- Writing clean and readable C# code
+- Optimizing time and space complexity
+- Learning *why* a solution works, not just *how*
+
+---
+
+## 📚 Topics Covered
+
+- Arrays & Strings  
+- Two Pointers  
+- HashMap / Dictionary  
+- Stack & Queue  
+- Linked List  
+- Binary Tree (DFS / BFS / Recursion)  
+- Binary Search  
+- Sliding Window  
+
+---
+
+## 🗂 Repository Structure
+
+
+Each problem is organized by **LeetCode number and title**:
+
+##Happy Coding
 
 ```text
-src/
-  Easy/
-    0001_TwoSum.cs (LeetCode.Easy)
-    0110_Balanced Binary Tree.cs
-    0733_Flood Fill.cs
-  Medium/
-    0167_TwoSumII.cs
-  Hard/
-    ...
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/EflaNe/LeetCode-Solutions-CSharp/tree/master/0169-majority-element) |
-| [0217-contains-duplicate](https://github.com/EflaNe/LeetCode-Solutions-CSharp/tree/master/0217-contains-duplicate) |
-## Hash Table
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/EflaNe/LeetCode-Solutions-CSharp/tree/master/0169-majority-element) |
-| [0217-contains-duplicate](https://github.com/EflaNe/LeetCode-Solutions-CSharp/tree/master/0217-contains-duplicate) |
-| [0383-ransom-note](https://github.com/EflaNe/LeetCode-Solutions-CSharp/tree/master/0383-ransom-note) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/EflaNe/LeetCode-Solutions-CSharp/tree/master/0169-majority-element) |
-## Sorting
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/EflaNe/LeetCode-Solutions-CSharp/tree/master/0169-majority-element) |
-| [0217-contains-duplicate](https://github.com/EflaNe/LeetCode-Solutions-CSharp/tree/master/0217-contains-duplicate) |
-## Counting
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/EflaNe/LeetCode-Solutions-CSharp/tree/master/0169-majority-element) |
-| [0383-ransom-note](https://github.com/EflaNe/LeetCode-Solutions-CSharp/tree/master/0383-ransom-note) |
-## Math
-|  |
-| ------- |
-| [0067-add-binary](https://github.com/EflaNe/LeetCode-Solutions-CSharp/tree/master/0067-add-binary) |
-## String
-|  |
-| ------- |
-| [0067-add-binary](https://github.com/EflaNe/LeetCode-Solutions-CSharp/tree/master/0067-add-binary) |
-| [0383-ransom-note](https://github.com/EflaNe/LeetCode-Solutions-CSharp/tree/master/0383-ransom-note) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0067-add-binary](https://github.com/EflaNe/LeetCode-Solutions-CSharp/tree/master/0067-add-binary) |
-## Simulation
-|  |
-| ------- |
-| [0067-add-binary](https://github.com/EflaNe/LeetCode-Solutions-CSharp/tree/master/0067-add-binary) |
-<!---LeetCode Topics End-->
+LeetCode/
+├── 009_Palindrome_Number/
+│   ├── Solution.cs
+│   └── README.md
+├── 104_Maximum_Depth_of_Binary_Tree/
+│   ├── Solution.cs
+│   └── README.md
+├── 876_Middle_of_the_Linked_List/
+│   ├── Solution.cs
+│   └── README.md
