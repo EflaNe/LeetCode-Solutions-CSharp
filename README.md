@@ -18,3 +18,46 @@ src/
     0167_TwoSumII.cs
   Hard/
     ...
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/EflaNe/LeetCode-Solutions-CSharp/tree/master/0169-majority-element) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/EflaNe/LeetCode-Solutions-CSharp/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/EflaNe/LeetCode-Solutions-CSharp/tree/master/0383-ransom-note) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/EflaNe/LeetCode-Solutions-CSharp/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/EflaNe/LeetCode-Solutions-CSharp/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/EflaNe/LeetCode-Solutions-CSharp/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/EflaNe/LeetCode-Solutions-CSharp/tree/master/0383-ransom-note) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/EflaNe/LeetCode-Solutions-CSharp/tree/master/0067-add-binary) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/EflaNe/LeetCode-Solutions-CSharp/tree/master/0067-add-binary) |
+| [0383-ransom-note](https://github.com/EflaNe/LeetCode-Solutions-CSharp/tree/master/0383-ransom-note) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/EflaNe/LeetCode-Solutions-CSharp/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/EflaNe/LeetCode-Solutions-CSharp/tree/master/0067-add-binary) |
+<!---LeetCode Topics End-->
