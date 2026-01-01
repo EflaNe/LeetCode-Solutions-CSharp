@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{258438B4-28F5-4FC0-A486-664F12F2C421}</ProjectGuid>
+    <ProjectGuid>{D8D29622-8AD8-415C-993D-8806ABBD117E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>FloodFill</RootNamespace>
-    <AssemblyName>FloodFill</AssemblyName>
+    <RootNamespace>_009._Palindrome_Number</RootNamespace>
+    <AssemblyName>009._Palindrome_Number</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
