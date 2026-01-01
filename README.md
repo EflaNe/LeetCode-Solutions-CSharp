@@ -36,7 +36,7 @@ For each problem, I focus on:
 
 Each problem is organized by **LeetCode number and title**:
 
-##Happy Coding
+Happy Coding😁
 
 ```text
 LeetCode/
