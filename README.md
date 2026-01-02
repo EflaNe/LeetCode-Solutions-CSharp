@@ -40,12 +40,5 @@ Happy Coding😁
 
 ```text
 LeetCode/
+├── 001_Two_Sum/
 ├── 009_Palindrome_Number/
-│   ├── Solution.cs
-│   └── README.md
-├── 104_Maximum_Depth_of_Binary_Tree/
-│   ├── Solution.cs
-│   └── README.md
-├── 876_Middle_of_the_Linked_List/
-│   ├── Solution.cs
-│   └── README.md
