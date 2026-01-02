@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace _009._Palindrome_Number
 {
+    [test](https://leetcode.com/problems/palindrome-number)
     internal class Program
     {
         static void Main(string[] args)
