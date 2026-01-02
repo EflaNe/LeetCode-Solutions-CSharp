@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 namespace _009._Palindrome_Number
 {
-    [test](https://leetcode.com/problems/palindrome-number)
+    // LeetCode: https://leetcode.com/problems/palindrome-number/
+    // Difficulty: Easy
+    // Approach: Reverse Half
+    // Time: O(log n), Space: O(1)
     internal class Program
     {
         static void Main(string[] args)
