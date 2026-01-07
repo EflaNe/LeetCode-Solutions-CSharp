@@ -1,35 +1,28 @@
-﻿namespace _0021_Merge_Two_Sorted_Lists
+﻿namespace _0026_Remove_Duplicates_from_Sorted_Array
 {
-    // LeetCode: https://leetcode.com/problems/merge-two-sorted-lists/
+    // LeetCode: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
     // Difficulty: Easy
-    // Approach: Iterative (Two Pointers)
-    // Time: O(n + m), Space: O(1)
+    // Approach: Two Pointers
+    // Time: O(n), Space: O(1)
     public class Solution
     {
-        public ListNode MergeTwoLists(ListNode list1, ListNode list2)
+        public int RemoveDuplicates(int[] nums)
         {
-            ListNode dummy = new ListNode(0);
-            ListNode current = dummy;
+            if (nums.Length == 0)
+                return 0;
 
-            while (list1 != null && list2 != null)
+            int k = 1;
+
+            for (int i = 1; i < nums.Length; i++)
             {
-                if (list1.val <= list2.val)
+                if (nums[i] != nums[i - 1])
                 {
-                    current.next = list1;
-                    list1 = list1.next;
+                    nums[k] = nums[i];
+                    k++;
                 }
-                else
-                {
-                    current.next = list2;
-                    list2 = list2.next;
-                }
-
-                current = current.next;
             }
 
-            current.next = list1 ?? list2;
-
-            return dummy.next;
+            return k;
         }
     }
 }
