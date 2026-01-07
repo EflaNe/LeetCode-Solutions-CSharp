@@ -40,6 +40,12 @@ Happy Coding😁
 
 ```text
 LeetCode/
-├── 001_Two_Sum/
-├── 009_Palindrome_Number/
-├── 053_Maximum_Subarray
+├── Easy/
+│   ├── 001_Two_Sum
+│   ├── 009_Palindrome_Number
+│   ├── 020_Valid_Parentheses
+│   ├── 021_Merge_Two_Sorted_Lists
+│   ├── 026_Remove_Duplicates_from_Sorted_Array
+├── Medium/
+│   ├── 053_Maximum_Subarray
+│   ├── 542_01_Matrix
